@@ -1,0 +1,9 @@
+.product{
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 2fr 1fr 1fr 1fr  0.5fr;
+    align-content: center;
+    list-style: none;
+    text-align: left;
+    color: white;
+}
